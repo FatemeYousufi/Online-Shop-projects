@@ -1,0 +1,86 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.fa{
+     margin: auto;
+     color: white;
+}
+.input-group{
+    max-width: 100%;
+    width: 100%;
+    margin: 10px auto;
+}
+
+.top-head{
+    background-color: #B6CE94;
+    height: 100px;
+}
+.nav-head{
+    margin: 0;
+    background-color: #B6CE94;
+}
+.navbar-nav{
+    margin-top: 0;
+}
+.row{
+    margin-top: 0;
+}
+.nav-link{
+    color: white;
+    padding: 12px;
+}
+.navbar-nav .nav-item .nav-link.active,
+.navbar-nav .nav-item .nav-link:hover{
+    border: solid white 0.5px;
+}
+
+.new-item{
+    text-align: center;
+    color: #68863d;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 170%;
+}
+h1{
+    color: #68863d;
+}
+.col-sm-6,.col-sm-4 h3{
+    color: #68863d; 
+}
+
+.row p,span{
+    margin-top: 12px;
+    color: rgb(78, 77, 77);
+}
+.spn{
+    margin: 20px;
+    color: rgb(189, 184, 184);
+}
+.horizontal-line{
+   width: 7%;
+   margin: auto;
+   border-style: none;
+   border-top-style: solid;
+   border-width: 2px;
+}
+.card-link{
+    text-align: center;
+}
+
+.card img{
+    height: 350px;
+}
+.carousel-item img{
+    height: 700px;
+}
+.remark-text .text-title{
+    color: #68863d; 
+    font-weight: bold;
+    font-size: 17px; 
+}
+.foot{
+    font-size: 18px;
+}
+
+
